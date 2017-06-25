@@ -1,19 +1,6 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package com.mycompany.ProjectManagementSystem.model.dao.OracleDAO;
 
-import com.mycompany.ProjectManagementSystem.model.Project;
-import com.mycompany.ProjectManagementSystem.model.Sprint;
-import com.mycompany.ProjectManagementSystem.model.Task;
-import java.sql.Date;
-import java.sql.Time;
-import java.sql.Timestamp;
-import java.util.Calendar;
-import java.util.GregorianCalendar;
-import java.util.List;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
